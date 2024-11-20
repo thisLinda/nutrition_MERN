@@ -1,5 +1,5 @@
 # :star2: About this Project
-Taking a break from a useful private project for a useful public project. This app will hit the FoodData Central (FDC) API for data filtered for my needs: portion size protein, fiber, total sugars with the option to save individual foods and full recipe data.
+Taking a break from a useful private project for a useful public project. This hits the FoodData Central (FDC) API for data filtered for my needs: portion size protein, fiber, macros, total sugars with the option to save individual foods and full recipe data.
 
 <!-- ## :toolbox: Getting Started -->
 
